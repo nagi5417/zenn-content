@@ -1,5 +1,5 @@
 ---
-title: "「npm run devのrunって何？」から始めるNode.js入門"
+title: "React/Next.jsを使う前に知っておきたいNode.jsの基礎知識"
 emoji: "☕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nodejs", "javascript"]
