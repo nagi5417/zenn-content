@@ -1,5 +1,5 @@
 ---
-title: "Node.jsの基本をZennに書いて覚える"
+title: "「npm run devのrunって何？」から始めるNode.js入門"
 emoji: "☕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nodejs", "javascript"]
