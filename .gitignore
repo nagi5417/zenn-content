@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+.claude/
+
+# 個人参考資料（リポジトリに含めない）
+zenn-setup-guide.html
+テックブログ運用法調査.md
