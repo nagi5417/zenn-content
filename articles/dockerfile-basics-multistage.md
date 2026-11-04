@@ -9,7 +9,7 @@ published: true
 ## はじめに
 
 以下の記事にて、VercelからAWSへの移行を行ったことを説明したのですが、今回はDockerfileについての記事となります。
-https://zenn.dev/nagi5417/articles/vercel-to-aws-migration-1000yen
+https://zenn.dev/nagi_dev/articles/vercel-to-aws-migration-1000yen
 
 移行の際に書いたDockerfileについては、4段のマルチステージビルドという形になっています。
 ただ、Claude Codeに頼りきりで移行したため現在後追いでどのような構成になっているのかを学習中です。
